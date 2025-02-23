@@ -4,13 +4,17 @@
 ---
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me  
+###  About Me  
 
 ```javascript
 const me = {
-  pronouns: "he" | "him",
-  skills: [Java, Python, C++, HTML, CSS, JavaScript],
-  tools: [React, Node.js, Docker, Git],
-  interests: ["Web Development", "Open Source", "AI/ML"],
-  challenge: "Learning full-stack development with React and Node.js"
-}
+    name: "浩南",
+    age: 21,
+    gender: "male",
+    major: "BigData and DataScience",
+    interests: ["WEB前端","All kinds of Sports","CS2","..."],
+    programmingLanguages: ["JavaScript", "C", "Java"],
+    getBirthday(isLunar) {
+        return isLunar ? "2004-10-08" : "2004-11-19";
+    }
+};
