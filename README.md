@@ -19,3 +19,4 @@ const me = {
 };
 ```
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=ComPleHN&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default&custom_title=相关信息"/>
+<img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComPleHN&locale=cn&line_height=33&theme=&langs_count=5&custom_title=MyLanguage"/>
