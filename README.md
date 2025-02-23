@@ -1,10 +1,9 @@
 <h2> Hi, I'm 浩南! </h2>
-<p><em>Software Architecture Student at <a href="https://www.xidian.edu.cn/">XDU</a></em></p>
+<p><em>A Common Student at <a href="https://www.xidian.edu.cn/">XDU</a></em></p>
 
 ---
 
 ###  About Me  
-
 ```javascript
 const me = {
     name: "浩南",
