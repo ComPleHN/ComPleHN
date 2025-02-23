@@ -19,7 +19,7 @@ const me = {
 };
 ```
 <div style="display: flex; justify-content: between-around; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ComPleHN&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default&custom_title=" style="width: 45%; height: 400px; max-width: 400px;" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=ComPleHN&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default&custom_title=MyGitInfo" style="width: 45%; height: 400px; max-width: 400px;" /> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComPleHN&locale=cn&line_height=33&theme=&langs_count=5&custom_title=MyLanguage" style="width: 45%; height: 400px; max-width: 400px;" /> 
 </div> 
 
