@@ -2,7 +2,6 @@
 <p><em>Software Architecture Student at <a href="https://www.xidian.edu.cn/">XDU</a></em></p>
 
 ---
----
 
 ###  About Me  
 
