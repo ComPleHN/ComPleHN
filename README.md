@@ -17,4 +17,5 @@ const me = {
         return isLunar ? "2004-10-08" : "2004-11-19";
     }
 };
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=ComPleHN&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default&custom_title=相关信息"></img>
+```
+<img   align="center" src="https://github-readme-stats.vercel.app/api?username=ComPleHN&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default&custom_title=相关信息"/>
