@@ -21,5 +21,9 @@ const me = {
     <img src="https://github-readme-stats.vercel.app/api?username=ComPleHN&locale=cn&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=github&custom_title=MyLanguage"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComPleHN&locale=cn&line_height=33&theme=&langs_count=5&custom_title=MyLanguage"/> 
 </div> 
-![](https://raw.githubusercontent.com/ComPleHN/ComPleHN/main/assets/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ComPleHN/ComPleHN/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ComPleHN/ComPleHN/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ComPleHN/ComPleHN/output/github-contribution-grid-snake.svg">
+</picture>
 
